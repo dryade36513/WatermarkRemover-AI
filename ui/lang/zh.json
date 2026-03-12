@@ -4,125 +4,125 @@
   },
   "modes": {
     "label": "整活模式",
-    "single": "孤儿模式",
-    "single_tooltip": "一次只搞一个，像个孤儿一样 🤡",
-    "batch": "开银趴",
-    "batch_tooltip": "大家一起上，甚至连甚至都在甚至 🥵"
+    "single": "孤兒模式",
+    "single_tooltip": "一次只搞一個，像個孤兒一樣 🤡",
+    "batch": "開銀趴",
+    "batch_tooltip": "大家一起上，甚至連甚至都在甚至 🥵"
   },
   "settings": {
     "gaslight": {
-      "label": "毁尸灭迹",
-      "sublabel": "(骨灰都给你扬了)",
-      "tooltip": "把原来的文件直接送走，不留活口 ⚰️"
+      "label": "毀屍滅跡",
+      "sublabel": "(骨灰都給你揚了)",
+      "tooltip": "把原來的文件直接送走，不留活口 ⚰️"
     },
     "ghost": {
-      "label": "灵车漂移 👻",
-      "sublabel": "(透明/升天)",
-      "tooltip": "把水印变成透明的，方便你训练LoRA，这不比博人传燃？🔥 (仅限PNG/WEBP)"
+      "label": "靈車漂移 👻",
+      "sublabel": "(透明/昇天)",
+      "tooltip": "把水印變成透明的，方便你訓練LoRA，這不比博人傳燃？🔥 (僅限PNG/WEBP)"
     },
     "sigma_detect": {
-      "label": "开天眼范围",
-      "tooltip": "太大的水印👴不修，别太荒谬 😅"
+      "label": "開天眼範圍",
+      "tooltip": "太大的水印👴不修，別太荒謬 😅"
     },
     "detection_prompt": {
-      "label": "圣旨",
-      "placeholder": "给👴删了",
-      "tooltip": "想删啥？watermark, logo, text... 别整那些有的没的 🤫"
+      "label": "聖旨",
+      "placeholder": "給👴刪了",
+      "tooltip": "想刪啥？watermark, logo, text... 別整那些有的沒的 🤫"
     },
     "output_format": {
-      "label": "拉什么屎",
-      "tooltip": "选个格式，不然👴怎么知道你要啥？",
-      "auto": "随缘",
-      "png": "PNG (高清无码)",
-      "jpg": "JPG (电子包浆)",
+      "label": "拉什麼屎",
+      "tooltip": "選個格式，不然👴怎麼知道你要啥？",
+      "auto": "隨緣",
+      "png": "PNG (高清無碼)",
+      "jpg": "JPG (電子包漿)",
       "webp": "WEBP (二次元)",
-      "mp4": "MP4 (动作片)",
+      "mp4": "MP4 (動作片)",
       "avi": "AVI (老古董)"
     }
   },
   "video_settings": {
-    "title": "视频那个事",
+    "title": "視頻那個事",
     "detection_skip": {
-      "label": "摸鱼频率",
-      "unit": "帧",
-      "hint": "跳得越高越快，但可能漏掉小的，跟👴上班一样 🐟"
+      "label": "摸魚頻率",
+      "unit": "幀",
+      "hint": "跳得越高越快，但可能漏掉小的，跟👴上班一樣 🐟"
     },
     "fade_in": {
-      "label": "前摇",
-      "hint": "往前多删点，别让水印复活了 🧟‍♂️"
+      "label": "前搖",
+      "hint": "往前多刪點，別讓水印復活了 🧟‍♂️"
     },
     "fade_out": {
-      "label": "后摇",
-      "hint": "往后多删点，送佛送到西 🙏"
+      "label": "後搖",
+      "hint": "往後多刪點，送佛送到西 🙏"
     }
   },
   "buttons": {
-    "preview": "👀 偷窥一下",
-    "preview_tooltip": "先看看能不能行，别到时候拉了 💩",
-    "preview_loading": "👀 正在偷窥...",
-    "start": "给👴冲 🐛",
+    "preview": "👀 偷窺一下",
+    "preview_tooltip": "先看看能不能行，別到時候拉了 💩",
+    "preview_loading": "👀 正在偷窺...",
+    "start": "給👴衝 🐛",
     "start_processing": "正在施法 ⚡...",
     "stop": "寄",
-    "browse": "顺手牵羊",
-    "try_again": "🔄 再冲一次",
+    "browse": "順手牽羊",
+    "try_again": "🔄 再衝一次",
     "close": "爬",
-    "copy_error": "📋 挂人"
+    "copy_error": "📋 掛人"
   },
   "dropzone": {
-    "title": "把垃圾扔进来 🗑️",
-    "subtitle": "或者点一下，别墨迹",
-    "video_hint": "是个视频，甚至有点像蔡徐坤 🏀",
-    "image_hint": "是个图，一眼顶真 📸"
+    "title": "把垃圾扔進來 🗑️",
+    "subtitle": "或者點一下，別墨跡",
+    "video_hint": "是個視頻，甚至有點像蔡徐坤 🏀",
+    "image_hint": "是個圖，一眼頂真 📸"
   },
   "output": {
-    "placeholder": "屎拉哪里..."
+    "placeholder": "屎拉哪裏..."
   },
   "status_bar": {
-    "cuda": "核动力 (CUDA)",
-    "ffmpeg": "剪辑手 (FFmpeg)",
-    "ram": "脑容量",
+    "cuda": "核動力 (CUDA)",
+    "ffmpeg": "剪輯手 (FFmpeg)",
+    "ram": "腦容量",
     "on": "勃起",
     "off": "萎了",
-    "cpu_mode": "用爱发电"
+    "cpu_mode": "用愛發電"
   },
   "preview_modal": {
-    "title": "照妖镜",
-    "prompt": "咒语:",
+    "title": "照妖鏡",
+    "prompt": "咒語:",
     "detected": "抓到了:",
-    "source": "来源:",
-    "regions": "个牛皮癣",
+    "source": "來源:",
+    "regions": "個牛皮癬",
     "bounding_boxes": "框框:",
-    "of_image": "% 的画面",
-    "too_large": "(太大了，装不下 🥵)",
-    "loading": "正在开坛做法...",
-    "loading_hint": "(第一次要下载模型，你家网线是也是抽象的吗？)"
+    "of_image": "% 的畫面",
+    "too_large": "(太大了，裝不下 🥵)",
+    "loading": "正在開壇做法...",
+    "loading_hint": "(第一次要下載模型，你家網線是也是抽象的嗎？)"
   },
-  "marquee": "抽象去水印 /// 孙笑川都说好 /// 依托答辩变废为宝 /// 6324 /// NMSL /// 👴的青春回来了 ///",
+  "marquee": "抽象去水印 /// 孫笑川都説好 /// 依託答辯變廢為寶 /// 6324 /// NMSL /// 👴的青春回來了 ///",
   "processing_status": [
     "正在搓大招...",
-    "寻找牛皮癣...",
-    "使用美图秀秀 (假的)...",
-    "甚至有点想笑...",
-    "正在抹除记忆...",
+    "尋找牛皮癬...",
+    "使用美圖秀秀 (假的)...",
+    "甚至有點想笑...",
+    "正在抹除記憶...",
     "加大力度 💉...",
-    "这水印真白，啊不是，真大...",
-    "快好了，别催 💢..."
+    "這水印真白，啊不是，真大...",
+    "快好了，別催 💢..."
   ],
   "logs": {
-    "init": "系统已启动，带哥好 👋",
-    "starting": "好戏开场了 🎭...",
+    "init": "系統已啓動，帶哥好 👋",
+    "starting": "好戲開場了 🎭...",
     "first_run_hint": "(第一次要下模型，去泡杯枸杞茶吧 🍵)",
     "done": "好勒，舒服了 ✨",
-    "stopped": "你把👴关了？坏女人 😭",
-    "no_input": "没东西你修个🔨？放文件啊！",
-    "ghost_video_warning": "视频不能变透明，你当是哈利波特呢？🚫",
-    "no_ffmpeg": "没装FFmpeg，视频没声音别怪👴 🔇",
-    "api_error": "API挂了，去跑 run.bat，别当巨婴 👶",
-    "preview_failed": "翻车了:",
-    "preview_result": "抓到 {total} 个鬼，超度了 {accepted} 个 🙏",
+    "stopped": "你把👴關了？壞女人 😭",
+    "no_input": "沒東西你修個🔨？放文件啊！",
+    "ghost_video_warning": "視頻不能變透明，你當是哈利波特呢？🚫",
+    "no_ffmpeg": "沒裝FFmpeg，視頻沒聲音別怪👴 🔇",
+    "api_error": "API掛了，去跑 run.bat，別當巨嬰 👶",
+    "preview_failed": "翻車了:",
+    "preview_result": "抓到 {total} 個鬼，超度了 {accepted} 個 🙏",
     "cooking": "👴正在炒菜..."
   },
   "lang": {
-    "label": "鸟语"
+    "label": "鳥語"
   }
 }
