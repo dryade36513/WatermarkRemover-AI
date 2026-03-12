@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/505be2a8-8eda-4def-90b6-5a4ceefee456
 The setup script downloads a portable Python environment automatically - no system Python required.
 
 ```powershell
-git clone https://github.com/D-Ogi/WatermarkRemover-AI.git
+git clone https://github.com/dryade36513/WatermarkRemover-AI.git
 cd WatermarkRemover-AI
 .\setup.ps1
 ```
@@ -60,7 +60,7 @@ After setup, double-click `run.bat` to launch the app.
 Requires Python 3.10+ installed on your system.
 
 ```bash
-git clone https://github.com/D-Ogi/WatermarkRemover-AI.git
+git clone https://github.com/dryade36513/WatermarkRemover-AI.git
 cd WatermarkRemover-AI
 chmod +x setup.sh
 ./setup.sh
@@ -159,6 +159,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=D-Ogi/WatermarkRemover-AI&type=date&legend=top-left)](https://www.star-history.com/#D-Ogi/WatermarkRemover-AI&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=dryade36513/WatermarkRemover-AI&type=date&legend=top-left)](https://www.star-history.com/#dryade36513/WatermarkRemover-AI&type=date&legend=top-left)
+
 
 
